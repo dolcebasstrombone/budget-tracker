@@ -20,6 +20,3 @@ screenshot of app in readme
 
 submit live page and repo
 ```
-
-public/ ===> manifest.json, service-worker.js
-
